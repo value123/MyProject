@@ -1,0 +1,34 @@
+apply plugin: 'com.android.application'////声明构建的项目类型，这里当然是android了
+
+//设置编译android项目的参数
+android {
+
+
+    compileSdkVersion 23       //用于编译的sdk的版本
+    buildToolsVersion "21.1.1"  //编译工具的版本
+
+    defaultConfig {
+        applicationId "com.wjshen"  //包名
+        minSdkVersion 15        //兼容的最小sdk版本
+        targetSdkVersion 'N'    //目标sdk版本
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+//定义依赖包,支持maven/ivy，远程，本地库，也支持单文件
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    //格式: packageName:artifactId:version
+    testCompile 'junit:junit:4.12'
+    //compileSdkVersion : 要与依赖库对应,否则就会爆出':app:processDebugResources'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile 'com.android.support:design:23.1.0'
+    //引用aar:compile(name: 'pulltorefresh', ext: 'aar')
+}
