@@ -1,0 +1,46 @@
+
+ext {
+    //Android
+    androidCompileSdkVersion = 23
+    androidBuildToolsVersion = '23.0.2'
+    androidTargetSdkVersion = 22
+    androidMinSdkVersion = 14
+
+    //Dependencies
+
+    appDependencies = [
+            support_v4: 'com.android.support:support-v4:23.2.0',
+            support_appcompat: 'com.android.support:appcompat-v7:23.2.0',
+            support_design: 'com.android.support:design:23.2.0',
+            butterknife: 'com.jakewharton:butterknife:6.0.0',
+            apt: 'com.neenbedankt.gradle.plugins:android-apt:1.8',
+            junit: 'junit:junit:4.12'
+    ]
+    appDps = [
+            support_v4 : 'compile',
+            support_appcompat : 'compile',
+            butterknife : 'compile',
+            apt: 'apt',
+            junit: 'testCompile'
+    ]
+
+    pullrefreshDps = [
+            support_v4 : 'compile',
+            support_appcompat : 'compile',
+            butterknife : 'compile',
+            junit: 'testCompile'
+    ]
+
+    dependenciesMethod = {dps, closure ->
+        dps.each { entry ->
+            def value = entry.value
+            if (value instanceof List) {
+                value.each { result ->
+                    closure result, appDependencies.get(entry.key), entry.key
+                }
+            } else {
+                closure value, appDependencies.get(entry.key), entry.key
+            }
+        }
+    }
+}

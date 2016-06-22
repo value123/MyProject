@@ -1,16 +1,20 @@
-apply plugin: 'com.android.application'////声明构建的项目类型，这里当然是android了
+apply plugin: 'com.android.application'////声明构建的项目类型android
+apply plugin: 'me.tatarka.retrolambda'
+apply plugin: 'com.neenbedankt.android-apt'
 
 //设置编译android项目的参数
 android {
-
-
-    compileSdkVersion 23       //用于编译的sdk的版本
-    buildToolsVersion "21.1.1"  //编译工具的版本
-
+    //参考:http://www.bubuko.com/infodetail-1008155.html
+    //用于编译的sdk的版本,软件开发工具包（外语首字母缩写：SDK、外语全称：Software Development Kit）,使用某种语言来暴露 API，提供头文件、库文件、工具（通常不是 IDE）和范例。
+    // 也就是API Level，例如API-19、API-20、API-21等等
+    compileSdkVersion 23
+    //buildeToolVersion是你构建工具的版本，其中包括了打包工具aapt、dx等等。这个工具的目录位于..your_sdk_path/build-tools/XX.XX.XX,这个版本号一般是API-LEVEL.0.0
+    buildToolsVersion "23.0.3"  //编译工具的版本
+    //注:你可以用高版本的build-tool去构建一个低版本的sdk工程，例如build-tool的版本为20，去构建一个sdk版本为18的
     defaultConfig {
-        applicationId "com.wjshen"  //包名
+        applicationId "com.jackson.demo2"  //包名
         minSdkVersion 15        //兼容的最小sdk版本
-        targetSdkVersion 'N'    //目标sdk版本
+        targetSdkVersion 23    //目标sdk版本
         versionCode 1
         versionName "1.0"
     }
@@ -20,15 +24,93 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    productFlavors {
+        xiaomi {
+            buildConfigField 'String', 'CHANNEL', '"xiaomi"'
+            applicationId "com.jackson.demo1"
+        }
+        meizu {
+            buildConfigField 'String', 'CHANNEL', '"meizu"'
+            applicationId "com.jackson.demo3"
+        }
+
+        normal {
+            buildConfigField 'String', 'API_BASE_URL', '"http://xxx.zuimeia.com/"'
+        }
+        qa {
+            buildConfigField 'String', 'API_BASE_URL', '"http://xxxtest.zuimeia.com/"'
+        }
+        instant {
+            // 这样 会相对快一些
+            buildConfigField 'String', 'API_BASE_URL', '"http://xxxtest.zuimeia.com/"'
+            applicationId "com.jackson.demo"
+        }
+    }
 }
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'me.tatarka:gradle-retrolambda:2.5.0'
+    }
+}
+
+//这个是解决lint报错的代码
+
+/*
+lintOptions {
+
+    abortOnError false
+
+}
+*/
+
+def globalConfiguration = rootProject.ext
+def gldp = globalConfiguration.appDependencies
+
+
 
 //定义依赖包,支持maven/ivy，远程，本地库，也支持单文件
 dependencies {
+    //单文件依赖
+    // compile files('libs/android-support-v4.jar')
+    //某个文件夹下面全部依赖
+    //compile fileTree(dir: 'libs', include: '*.jar')
     compile fileTree(include: ['*.jar'], dir: 'libs')
     //格式: packageName:artifactId:version
-    testCompile 'junit:junit:4.12'
     //compileSdkVersion : 要与依赖库对应,否则就会爆出':app:processDebugResources'
-    compile 'com.android.support:appcompat-v7:23.1.0'
-    compile 'com.android.support:design:23.1.0'
+    //
     //引用aar:compile(name: 'pulltorefresh', ext: 'aar')
+
+    compile project(':comlib')
+    compile project(':pullrefresh')
+
+    //groovy 闭包的省略调用方式,相当于 dependenciesMethod(appDps,{})
+
+    rootProject.dependenciesMethod rootProject.ext.appDps, { type, library, key ->
+        if (type == 'compile') {
+            compile library
+        } else if (type == 'debugCompile') {
+            debugCompile library
+        } else if (type == 'testCompile') {
+            testCompile library
+        } else if (type == 'apt') {
+            apt library
+        }
+    }
+
 }
+
+
