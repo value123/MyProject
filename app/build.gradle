@@ -11,37 +11,15 @@ android {
     //buildeToolVersion是你构建工具的版本，其中包括了打包工具aapt、dx等等。这个工具的目录位于..your_sdk_path/build-tools/XX.XX.XX,这个版本号一般是API-LEVEL.0.0
     buildToolsVersion "23.0.3"  //编译工具的版本
     //注:你可以用高版本的build-tool去构建一个低版本的sdk工程，例如build-tool的版本为20，去构建一个sdk版本为18的
-    defaultConfig {
-        applicationId "com.jackson.demo2"  //包名
-        minSdkVersion 15        //兼容的最小sdk版本
-        targetSdkVersion 23    //目标sdk版本
-        versionCode 1
-        versionName "1.0"
-    }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-        }
-    }
-    lintOptions {
-        abortOnError false
-        checkReleaseBuilds false
-    }
 
-    compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
-    }
-
-    productFlavors {
+    /* productFlavors {
         xiaomi {
-            buildConfigField 'String', 'CHANNEL', '"xiaomi"'
-            applicationId "com.jackson.demo1"
+            buildConfigField 'String','CHANNEL','"http://www.flysnow.org2/"'
         }
         meizu {
             buildConfigField 'String', 'CHANNEL', '"meizu"'
-            applicationId "com.jackson.demo3"
+            applicationId "com.jackson.demo.meizu"
+            packageName 'com.jackson.demo.meizu'
         }
 
         normal {
@@ -53,10 +31,133 @@ android {
         instant {
             // 这样 会相对快一些
             buildConfigField 'String', 'API_BASE_URL', '"http://xxxtest.zuimeia.com/"'
-            applicationId "com.jackson.demo"
+            applicationId "com.jackson.demo.test"
+            packageName 'com.jackson.demo.test'
+        }
+    }*/
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            proguardFile 'proguard-android.txt'
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        applicationId "com.jackson.demo"  //包名
+        minSdkVersion 15        //兼容的最小sdk版本
+        targetSdkVersion 23    //目标sdk版本
+        versionCode 1
+        versionName "1.0"
+        buildConfigField 'String', 'CHANNEL', '"test"'//申明渠道号字段,自动配置完成后可以到BuildConfig文件中查看
+    }
+
+    productFlavors {
+        def flavors = initFlavors();
+        flavors.each { name, value ->
+            "$name" {
+                buildConfigField 'String', 'CHANNEL', '"' + "$value" + '"' //动态设置CHANNEL字段的值
+            }
+        }
+        flavors.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
+            println "$key:$value"
+        })
+    }
+}
+
+//创建多维的渠道
+def initFlavors() {
+    def map = new HashMap()
+    for (i in 0..5) {
+        map.put("xiaomi$i", "xiaomi$i");
+    }
+    for (i in 0..5) {
+        map.put("meizu$i", "meizu$i");
+    }
+
+    map.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
+        println "$key:$value"
+    })
+    return map;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def setup() {
+    //输入参数中包含 -Pmc 时才进行多渠道构建
+    if (project.hasProperty('mc')) {
+        //多渠道构建
+        println "multi channel"
+        //渠道源
+        def path = "./build-type/config.txt"
+        //有的渠道是纯数字，不能用来做名字，这里统一加个前缀
+        def prefix = "_"
+        file(path).eachLine { line ->
+            println line
+            def f = file("./build-type/$line");
+            if (!f.exists()) {
+                f.mkdir()
+            }
+            //针对不同平台，生成不同的 Manifest
+            copyManifest(line)
+        }
+        file(path).eachLine { line ->
+            android.buildTypes.create(prefix + line, {
+                packageName = 'com.qihigh'
+                signingConfig android.signingConfigs.myConfig
+                runProguard false
+                proguardFile 'proguard-android.txt'
+            })
+            //println "lalala:" + android.sourceSets
+            android.sourceSets.findAll { source ->
+                source.name.equals(line)
+            }.each { source ->
+                println "source:$source.name type:build-type/$line"
+                source.setRoot("build-type/$line")
+            }
         }
     }
 }
+
+def copyManifest(String type) {
+    BufferedReader reader = file('./src/main/AndroidManifest.xml').newReader('utf-8')
+    StringBuffer _file = new StringBuffer()
+    reader.eachLine { line ->
+        _file.append(line).append("\n")
+    }
+    reader.close()
+
+    def dest_file = file("./build-type/$type/AndroidManifest.xml")
+
+    BufferedWriter writer = new BufferedWriter(new FileWriter(dest_file))
+    writer.write(_file.toString() + "<!-- $type -->")
+    writer.close()
+}
+
 
 buildscript {
     repositories {
@@ -79,8 +180,6 @@ lintOptions {
 
 def globalConfiguration = rootProject.ext
 def gldp = globalConfiguration.appDependencies
-
-
 
 //定义依赖包,支持maven/ivy，远程，本地库，也支持单文件
 dependencies {
