@@ -12,16 +12,20 @@ android {
     buildToolsVersion "23.0.3"  //编译工具的版本
     //注:你可以用高版本的build-tool去构建一个低版本的sdk工程，例如build-tool的版本为20，去构建一个sdk版本为18的
 
-    /* productFlavors {
-        xiaomi {
-            buildConfigField 'String','CHANNEL','"http://www.flysnow.org2/"'
+   /* productFlavors {
+        xiaomi0 {
+            buildConfigField 'String', 'CHANNEL', '"http://www.flysnow.org2/"'
         }
-        meizu {
+        xiaomi1 {
+            buildConfigField 'String', 'CHANNEL', '"http://www.flysnow.org2/"'
+        }
+        meizu0 {
             buildConfigField 'String', 'CHANNEL', '"meizu"'
-            applicationId "com.jackson.demo.meizu"
-            packageName 'com.jackson.demo.meizu'
         }
-
+        meizu1 {
+            buildConfigField 'String', 'CHANNEL', '"meizu"'
+        }
+        *//*
         normal {
             buildConfigField 'String', 'API_BASE_URL', '"http://xxx.zuimeia.com/"'
         }
@@ -33,7 +37,7 @@ android {
             buildConfigField 'String', 'API_BASE_URL', '"http://xxxtest.zuimeia.com/"'
             applicationId "com.jackson.demo.test"
             packageName 'com.jackson.demo.test'
-        }
+        }*//*
     }*/
 
     buildTypes {
@@ -63,26 +67,67 @@ android {
         buildConfigField 'String', 'CHANNEL', '"test"'//申明渠道号字段,自动配置完成后可以到BuildConfig文件中查看
     }
 
+    sourceSets {
+        /* xiaomi {
+            xiaomi.setRoot('src/xiaomi')
+        }
+        meizu {
+            meizu.('src/meizu')
+        }*/
+
+        def sources = initSourceSets();
+
+        sources.each { name, value ->
+            "$name" {
+//                println           'src/'+"$name".subSequence(0,"$name".length()-1);
+                println "src/" + ("$name".contains('xiaomi') ? "xiaomi" : "main");
+                def rootSrc = "src/"
+                if ("$name".contains("xiaomi")) {
+                    rootSrc += "xiaomi"
+                } else if ("$name".contains("meizu")) {
+                    rootSrc += "meizu"
+                } else {
+                    rootSrc += "main"
+//                    rootSrc = "src/main"
+                }
+
+                root rootSrc
+//                root 'src/'+     "$name".contains('xiaomi')?'xiaomi':'main'
+//                "$name".setRoot('src/xiaomi')
+
+            }
+        }
+    }
+
     productFlavors {
         def flavors = initFlavors();
         flavors.each { name, value ->
-            "$name" {
-                buildConfigField 'String', 'CHANNEL', '"' + "$value" + '"' //动态设置CHANNEL字段的值
+            println "$name.name"
+            "$name.name"   {
+               // buildConfigField 'String', 'CHANNEL', '"' + "$value" + '"' //动态设置CHANNEL字段的值
+                applicationId "$name.name"
             }
         }
-        flavors.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
-            println "$key:$value"
-        })
+//        flavors.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
+//            println "$key>>>>$value"
+//        })
     }
 }
 
-//创建多维的渠道
-def initFlavors() {
+def class A{
+    def name
+    def sid
+    def reffer
+    def channelId
+}
+
+def initSourceSets() {
     def map = new HashMap()
-    for (i in 0..5) {
+
+    for (i in 0..1) {
         map.put("xiaomi$i", "xiaomi$i");
     }
-    for (i in 0..5) {
+    for (i in 0..1) {
         map.put("meizu$i", "meizu$i");
     }
 
@@ -92,19 +137,35 @@ def initFlavors() {
     return map;
 }
 
+//创建多维的渠道
+def initFlavors() {
+    def map = new HashMap()
+    String[] sids= ["2100","2101"];
+    String[] reffers= ["263308","263309"];
+    String[] channelIds= ["DX_01","DX_02"];
+    for (i in 0..1) {
+        def a = new A();
+        a.name= "dx"+i
+        a.sid = sids[i]
+        a.reffer= reffers[i]
+        a.channelId = channelIds[i]
+        map.put(a, a);
+    }
+    for (j in 0..1) {
+        def a = new A();
+        a.name="meizu"+j
+        a.sid = "21"+j
+        a.reffer="26233"+j
+        a.channelId = "DX_"+j;
+        map.put(a, a);
+//        map.put("meizu$i", "meizu$i");
+    }
 
-
-
-
-
-
-
-
-
-
-
-
-
+    map.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
+        println "$key:$value"
+    })
+    return map;
+}
 
 
 def setup() {
