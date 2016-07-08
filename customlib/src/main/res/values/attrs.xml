@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColor" format="reference|color"/>
+    <attr name="textSize" format="reference|dimension"/>
+
+    <declare-styleable name="MeItemLayout">
+        <attr name="leftIcon" format="reference"/>
+        <attr name="contentText" format="reference|string"/>
+        <attr name="rightIcon" format="reference"/>
+        <attr name="textColor"/>
+        <attr name="textSize"/>
+        <attr name="showTopDivider" format="boolean"/>
+        <attr name="showBottomDivider" format="boolean"/>
+    </declare-styleable>
+</resources>

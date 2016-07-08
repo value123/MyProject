@@ -14,14 +14,16 @@ ext {
             support_design: 'com.android.support:design:23.2.0',
             butterknife: 'com.jakewharton:butterknife:6.0.0',
             apt: 'com.neenbedankt.gradle.plugins:android-apt:1.8',
-            junit: 'junit:junit:4.12'
+            junit: 'junit:junit:4.12',
+            timePicker:'com.jzxiang.pickerview:TimePickerDialog:1.0.1'
     ]
     appDps = [
             support_v4 : 'compile',
             support_appcompat : 'compile',
             butterknife : 'compile',
             apt: 'apt',
-            junit: 'testCompile'
+            junit: 'testCompile',
+            timePicker:'compile'
     ]
 
     pullrefreshDps = [

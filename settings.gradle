@@ -1,1 +1,1 @@
-include ':app', ':comlib' , ':pullrefresh'
+include ':app', ':comlib', ':pullrefresh', ':customlib'

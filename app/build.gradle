@@ -46,6 +46,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
             proguardFile 'proguard-android.txt'
         }
+        /*debug {
+//            minifyEnabled false
+        }*/
+//        debuggableRelease.initWith(buildTypes.release)
     }
 
     lintOptions {
@@ -75,25 +79,20 @@ android {
             meizu.('src/meizu')
         }*/
 
-        def sources = initSourceSets();
+        def sources = initFlavors();
 
         sources.each { name, value ->
-            "$name" {
-//                println           'src/'+"$name".subSequence(0,"$name".length()-1);
-                println "src/" + ("$name".contains('xiaomi') ? "xiaomi" : "main");
+            "$name.name" {
                 def rootSrc = "src/"
-                if ("$name".contains("xiaomi")) {
+                if ("$name.name".contains("xiaomi")) {
                     rootSrc += "xiaomi"
-                } else if ("$name".contains("meizu")) {
+                } else if ("$name.name".contains("meizu")) {
                     rootSrc += "meizu"
                 } else {
                     rootSrc += "main"
-//                    rootSrc = "src/main"
                 }
 
                 root rootSrc
-//                root 'src/'+     "$name".contains('xiaomi')?'xiaomi':'main'
-//                "$name".setRoot('src/xiaomi')
 
             }
         }
@@ -105,12 +104,8 @@ android {
             println "$name.name"
             "$name.name"   {
                // buildConfigField 'String', 'CHANNEL', '"' + "$value" + '"' //动态设置CHANNEL字段的值
-                applicationId "$name.name"
             }
         }
-//        flavors.each({ key, value ->    //输出打印语句,用于调试,key,value两个参数用于接受每个元素的键/值
-//            println "$key>>>>$value"
-//        })
     }
 }
 
@@ -120,7 +115,7 @@ def class A{
     def reffer
     def channelId
 }
-
+/*
 def initSourceSets() {
     def map = new HashMap()
 
@@ -135,7 +130,7 @@ def initSourceSets() {
         println "$key:$value"
     })
     return map;
-}
+}*/
 
 //创建多维的渠道
 def initFlavors() {
@@ -145,19 +140,19 @@ def initFlavors() {
     String[] channelIds= ["DX_01","DX_02"];
     for (i in 0..1) {
         def a = new A();
-        a.name= "dx"+i
+        a.name= "xiaomi"+i
         a.sid = sids[i]
         a.reffer= reffers[i]
         a.channelId = channelIds[i]
         map.put(a, a);
     }
     for (j in 0..1) {
-        def a = new A();
-        a.name="meizu"+j
-        a.sid = "21"+j
-        a.reffer="26233"+j
-        a.channelId = "DX_"+j;
-        map.put(a, a);
+        def b = new A();
+        b.name="meizu"+j
+        b.sid = "21"+j
+        b.reffer="26233"+j
+        b.channelId = "DX_"+j;
+        map.put(b, b);
 //        map.put("meizu$i", "meizu$i");
     }
 
