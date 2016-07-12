@@ -11,7 +11,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/comlib" />
+            <option value="$PROJECT_DIR$/customlib" />
+            <option value="$PROJECT_DIR$/immersivestatusbar" />
             <option value="$PROJECT_DIR$/pullrefresh" />
+            <option value="$PROJECT_DIR$/timepicker" />
           </set>
         </option>
         <option name="myModules">
@@ -19,7 +22,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/comlib" />
+            <option value="$PROJECT_DIR$/customlib" />
+            <option value="$PROJECT_DIR$/immersivestatusbar" />
             <option value="$PROJECT_DIR$/pullrefresh" />
+            <option value="$PROJECT_DIR$/timepicker" />
           </set>
         </option>
       </GradleProjectSettings>

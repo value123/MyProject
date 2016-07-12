@@ -1,1 +1,1 @@
-include ':app', ':comlib', ':pullrefresh', ':customlib'
+include ':app', ':comlib', ':pullrefresh', ':customlib', ':timepicker', ':immersivestatusbar'
