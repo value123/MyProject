@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="me_recycle_titles">
+        <item>品牌介绍</item>
+        <item>安全保障</item>
+        <item>服务介绍</item>
+        <item>品牌介绍</item>
+        <item>安全保障</item>
+        <item>服务介绍</item>
+    </string-array>
+    <string-array name="me_recycle_descriptions">
+        <item>中国领先现货投资服务商\n银科控股旗下品牌</item>
+        <item>IOS3项国际认证技术安全\n资金银行专户管理</item>
+        <item>欧睿认证两年现货交易额\n服务满意率排名第一</item>
+        <item>中国领先现货投资服务商\n银科控股旗下品牌</item>
+        <item>IOS3项国际认证技术安全\n资金银行专户管理</item>
+        <item>欧睿认证两年现货交易额\n服务满意率排名第一</item>
+    </string-array>
+    <string-array name="me_recycle_urls">
+        <item>http://client.baidao.com/hd/product/ppjs.html</item>
+        <item>http://client.baidao.com/hd/product/aqbz.html</item>
+        <item>http://client.baidao.com/hd/product/service.html</item>
+        <item>http://client.baidao.com/hd/product/ppjs.html</item>
+        <item>http://client.baidao.com/hd/product/aqbz.html</item>
+        <item>http://client.baidao.com/hd/product/service.html</item>
+    </string-array>
+</resources>

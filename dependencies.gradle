@@ -15,7 +15,8 @@ ext {
             butterknife: 'com.jakewharton:butterknife:6.0.0',
             apt: 'com.neenbedankt.gradle.plugins:android-apt:1.8',
             junit: 'junit:junit:4.12',
-            timePicker:'com.jzxiang.pickerview:TimePickerDialog:1.0.1'
+            timePicker:'com.jzxiang.pickerview:TimePickerDialog:1.0.1',
+            gson: 'com.google.code.gson:gson:2.3.1',
     ]
     appDps = [
             support_v4 : 'compile',
@@ -31,6 +32,11 @@ ext {
             support_appcompat : 'compile',
             butterknife : 'compile',
             junit: 'testCompile'
+    ]
+
+    issBaseDps = [
+            support_v4 : 'compile',
+            gson : 'compile'
     ]
 
     dependenciesMethod = {dps, closure ->

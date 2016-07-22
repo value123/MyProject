@@ -9,10 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/IssBaseDemo_V1.3" />
+            <option value="$PROJECT_DIR$/IssBase_V1.3" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/comlib" />
             <option value="$PROJECT_DIR$/customlib" />
             <option value="$PROJECT_DIR$/immersivestatusbar" />
+            <option value="$PROJECT_DIR$/issbase" />
             <option value="$PROJECT_DIR$/pullrefresh" />
             <option value="$PROJECT_DIR$/timepicker" />
           </set>
@@ -20,10 +23,13 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/IssBaseDemo_V1.3" />
+            <option value="$PROJECT_DIR$/IssBase_V1.3" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/comlib" />
             <option value="$PROJECT_DIR$/customlib" />
             <option value="$PROJECT_DIR$/immersivestatusbar" />
+            <option value="$PROJECT_DIR$/issbase" />
             <option value="$PROJECT_DIR$/pullrefresh" />
             <option value="$PROJECT_DIR$/timepicker" />
           </set>

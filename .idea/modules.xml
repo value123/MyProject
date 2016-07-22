@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IssBaseDemo_V1.3/IssBaseDemo_V1.3.iml" filepath="$PROJECT_DIR$/IssBaseDemo_V1.3/IssBaseDemo_V1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IssBase_V1.3/IssBase_V1.3.iml" filepath="$PROJECT_DIR$/IssBase_V1.3/IssBase_V1.3.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/comlib/comlib.iml" filepath="$PROJECT_DIR$/comlib/comlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/customlib/customlib.iml" filepath="$PROJECT_DIR$/customlib/customlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" filepath="$PROJECT_DIR$/immersivestatusbar/immersivestatusbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/issbase/issbase.iml" filepath="$PROJECT_DIR$/issbase/issbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/pullrefresh/pullrefresh.iml" filepath="$PROJECT_DIR$/pullrefresh/pullrefresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/timepicker/timepicker.iml" filepath="$PROJECT_DIR$/timepicker/timepicker.iml" />
     </modules>

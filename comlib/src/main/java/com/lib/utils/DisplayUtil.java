@@ -52,4 +52,17 @@ public class DisplayUtil {
         return (int) (spValue * fontScale + 0.5f);
     }
 
+    /**
+     *
+     * @param width 屏幕宽度像素值
+     * @param height 屏幕高度像素值
+     * @param pinch 屏幕对角线尺寸(5"),英寸inch
+     * @return ppi,dpi=ppi/160;
+     */
+    public static long caculateDensity(int width, int height, int pinch){
+        //pow 平方公式,2代表几次方
+        //sqrt 平方根公式,次方根需要使用java.lang.StrictMath.pow(m,1.0/n)
+        return (long) (Math.sqrt(Math.pow(width,2)+Math.pow(height,2))/pinch);
+    }
+
 }

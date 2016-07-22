@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <drawable name="drawable_test_blue">#00f</drawable>
+
+    <color name="color_gray_press">#7b7b7b</color>
+    <!-- 185 47 47 红色 -->
+    <color name="color_red_text">#B92F2F</color>
+</resources>
