@@ -1,16 +1,17 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="BaseAppTheme" parent="Theme.AppCompat">
         <!-- Customize your theme here. -->
     <!--    <item name="android:windowActionBar">false</item> &lt;!&ndash; 屏蔽ActionBar &ndash;&gt;
         <item name="android:windowNoTitle">true</item>// &lt;!&ndash; 使用 API Level 22 編譯的話，要拿掉前綴字 <item name="windowNoTitle">true</item> &ndash;&gt;-->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="BaseAppTheme" parent="AppTheme">
+    <style name="AppTheme" parent="BaseAppTheme">
         <!-- Customize your theme here. -->
 
     </style>

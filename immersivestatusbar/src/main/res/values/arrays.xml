@@ -24,4 +24,20 @@
         <item>http://client.baidao.com/hd/product/aqbz.html</item>
         <item>http://client.baidao.com/hd/product/service.html</item>
     </string-array>
+
+    <string-array name="category">
+
+        <item>Top News</item>
+
+        <item>Business</item>
+
+        <item>Politics</item>
+
+        <item>Sports</item>
+
+        <item>Technology</item>
+
+        <item>Movies</item>
+
+    </string-array>
 </resources>
