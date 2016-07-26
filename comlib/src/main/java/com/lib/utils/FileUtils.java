@@ -1,4 +1,4 @@
-package com.dx168.efsmobile.utils;
+package com.lib.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
