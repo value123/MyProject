@@ -3,5 +3,7 @@
     <string name="action_edit">编辑</string>
     <string name="action_share">分享</string>
     <string name="action_settings">设置</string>
-    <string name="card_string"></string>
+    <string name="card_string">You can add an {@link android.support.v7.app.ActionBar} to your activity when running on API level 7 or higher
+ * by extending this class for your activity and setting the activity theme to
+ * {@link android.support.v7.appcompat.R.style#Theme_AppCompat Theme.AppCompat} or a similar theme.</string>
 </resources>

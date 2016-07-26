@@ -1,12 +1,20 @@
 package com.lib.utils;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
+import android.content.res.Resources;
+import android.util.Log;
+import android.view.KeyCharacterMap;
+import android.view.KeyEvent;
+import android.view.ViewConfiguration;
 
 /**
  * Created by shenwenjie on 3/6/2016.
  */
 
 public class DisplayUtil {
+
+    private static final String TAG = "DisplayUtil";
 
     /**
      * pixel convert to dip
@@ -65,4 +73,50 @@ public class DisplayUtil {
         return (long) (Math.sqrt(Math.pow(width,2)+Math.pow(height,2))/pinch);
     }
 
+    //check the device has a entity key,use this to define where the virtual navigationbar is show
+    @SuppressLint("NewApi")
+    public static boolean checkDeviceHasEntityKey(Context context) {
+
+        //通过判断设备是否有返回键、菜单键(不是虚拟键,是手机屏幕外的按键)
+        boolean hasMenuKey = ViewConfiguration.get(context)
+                .hasPermanentMenuKey();
+        boolean hasBackKey = KeyCharacterMap
+                .deviceHasKey(KeyEvent.KEYCODE_BACK);
+
+        if (hasMenuKey || hasBackKey) {
+            return true;
+        }
+        return false;
+    }
+
+    public static int getNavigationBarHeight(Context context) {
+        Resources resources = context.getResources();
+        int resourceId = resources.getIdentifier("navigation_bar_height", "dimen", "android");
+        int height = resources.getDimensionPixelSize(resourceId);
+//        Log.e("TransferFrament", "Navi height:" + height);
+        return height;
+    }
+
+
+    /**
+     * 获得状态栏的高度
+     *
+     * @param context
+     * @return
+     */
+    public static int getStatusHeight(Context context) {
+
+        int statusHeight = -1;
+        try {
+            Class clazz = Class.forName("com.android.internal.R$dimen");
+            Object object = clazz.newInstance();
+            int height = Integer.parseInt(clazz.getField("status_bar_height")
+                    .get(object).toString());
+            statusHeight = context.getResources().getDimensionPixelSize(height);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        Log.d(TAG,"statusHeight = " + statusHeight);
+        return statusHeight;
+    }
 }

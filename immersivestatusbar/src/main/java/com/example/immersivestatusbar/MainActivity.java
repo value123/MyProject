@@ -1,14 +1,9 @@
 package com.example.immersivestatusbar;
 
-import android.os.Build;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.Toolbar;
-import android.widget.ArrayAdapter;
-import android.widget.ListView;
 
 import com.example.immersivestatusbar.adapter.MeRecycleAdapter;
 import com.example.immersivestatusbar.adapter.MeRecycleDivider;
