@@ -1,1 +1,1 @@
-include ':app', ':comlib', ':pullrefresh', ':customlib', ':timepicker', ':immersivestatusbar', ':IssBase_V1.3', ':IssBaseDemo_V1.3', ':issbase'
+include ':app', ':comlib', ':pullrefresh', ':customlib', ':timepicker', ':immersivestatusbar', ':IssBase_V1.3', ':IssBaseDemo_V1.3', ':issbase', ':retrofit2rx'
