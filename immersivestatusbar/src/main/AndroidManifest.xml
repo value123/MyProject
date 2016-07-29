@@ -9,16 +9,23 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".CollapsingToolBarActivity">
+        </activity>
+        <activity android:name=".ElasticCollapsingToolBarActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity">
+
+        </activity>
         <activity android:name=".ToolBarActivity" />
         <activity android:name=".CardViewActivity" />
-        <activity android:name=".DrawerLayoutActivity"></activity>
+        <activity android:name=".DrawerLayoutActivity" />
+        <activity android:name=".ImmerSiveActivity">
+
+        </activity>
     </application>
 
 </manifest>

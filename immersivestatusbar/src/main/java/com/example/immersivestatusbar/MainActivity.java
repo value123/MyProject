@@ -1,13 +1,17 @@
 package com.example.immersivestatusbar;
 
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
 
 import com.example.immersivestatusbar.adapter.MeRecycleAdapter;
 import com.example.immersivestatusbar.adapter.MeRecycleDivider;
 import com.example.immersivestatusbar.entity.MeRecycleItem;
+import com.lib.utils.DisplayUtil;
 
 import java.util.ArrayList;
 
@@ -19,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
     @InjectView(R.id.recycle_view)
     RecyclerView recycleView;
+    @InjectView(R.id.toolbar)
+    Toolbar toolbar;
+
     private ArrayList<MeRecycleItem> meRecycleItems;
 
     @Override
@@ -28,6 +35,16 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.inject(this);
         initDate();
         initRecycleView();
+        initToolBar();
+    }
+
+    private void initToolBar() {
+        toolbar.setNavigationIcon(R.mipmap.arrow_left_circle);
+        toolbar.setTitle("压缩布局");
+
+        int statusHeight = DisplayUtil.getStatusHeight(this);
+        CollapsingToolbarLayout.LayoutParams layoutParams = (CollapsingToolbarLayout.LayoutParams) toolbar.getLayoutParams();
+        layoutParams.topMargin = statusHeight;
     }
 
     private void initDate() {

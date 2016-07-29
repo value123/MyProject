@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="AppTheme" parent="BaseAppTheme">
-        //android4.4以上可以使用的属性,控制状态栏显示隐藏,如果需要隐藏并保留控件需要添加fitsSystemWindows属性配合使用
+        //android4.4使用的属性,控制状态栏显示隐藏,如果需要隐藏并保留控件需要添加fitsSystemWindows属性配合使用
         <item name="android:windowTranslucentStatus">true</item>
     </style>
 </resources>
