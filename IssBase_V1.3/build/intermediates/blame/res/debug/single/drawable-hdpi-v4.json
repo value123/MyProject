@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_month_highlight.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/btn_next_month_highlight.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_arrow.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_previous_xml.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/button_previous_xml.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_previous_month.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/btn_previous_month.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_next_xml.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/button_next_xml.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/calender_right_selected.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/calender_right_selected.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar_item_bg.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/calendar_item_bg.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_next_month.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/btn_next_month.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/pulltorefresh_up_arrow.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_previous_month_highlight.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/btn_previous_month_highlight.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_ptr_flip.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/calender_left_selected.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/calender_left_selected.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/calendar_title.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/calendar_title.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/empty.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/empty.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/pulltorefresh_down_arrow.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/pulltorefresh_down_arrow.png"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable-hdpi-v4/itotem_icon.png",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable-hdpi/itotem_icon.png"
+    }
+]

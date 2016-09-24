@@ -8,22 +8,28 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ElasticCollapsingToolBarActivity"></activity>
         <activity android:name=".CollapsingToolBarActivity">
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN" />-->
+
+                <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
         </activity>
-        <activity android:name=".ElasticCollapsingToolBarActivity">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".ToolBarImsActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity">
-
-        </activity>
-        <activity android:name=".ToolBarActivity" />
         <activity android:name=".CardViewActivity" />
         <activity android:name=".DrawerLayoutActivity" />
         <activity android:name=".ImmerSiveActivity">
+
+        </activity>
+        <activity android:name=".TestActivity">
 
         </activity>
     </application>

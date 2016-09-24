@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/pullrefresh/pullrefresh.iml" filepath="$PROJECT_DIR$/pullrefresh/pullrefresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit2rx/retrofit2rx.iml" filepath="$PROJECT_DIR$/retrofit2rx/retrofit2rx.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofit2rx/retrofitrx.iml" filepath="$PROJECT_DIR$/retrofit2rx/retrofitrx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scroller/scroller.iml" filepath="$PROJECT_DIR$/scroller/scroller.iml" />
       <module fileurl="file://$PROJECT_DIR$/timepicker/timepicker.iml" filepath="$PROJECT_DIR$/timepicker/timepicker.iml" />
     </modules>
   </component>

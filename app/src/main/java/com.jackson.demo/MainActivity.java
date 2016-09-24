@@ -6,6 +6,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -47,7 +48,6 @@ public class MainActivity extends FragmentActivity implements PullRefreshLayout.
         text.setText(ApplicationUtil.getDeviceInfo(this));
         Log.d(TAG,ApplicationUtil.getDeviceInfo(this));
         Log.d(TAG,"isDebug = " + BuildConfig.DEBUG);
-
 
         showTimePickerDialog();
     }

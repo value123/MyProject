@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dip"
+        android:background="@mipmap/bkg_one"
+        android:fitsSystemWindows="false">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="52dip">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:gravity="center"
+                android:text="1111"
+                android:textColor="#FF11FF" />
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+</LinearLayout>

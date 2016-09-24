@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dip" >
+
+    <com.iss.view.common.MarqueeTextView
+        android:id="@+id/textView_name"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:gravity="center_vertical"
+        android:textSize="13sp" />
+
+    <EditText
+        android:id="@+id/editText_password"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:gravity="center_vertical"
+        android:singleLine="true"
+        android:textSize="13sp" />
+
+    <Button
+        android:id="@+id/button_enter"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+</LinearLayout>

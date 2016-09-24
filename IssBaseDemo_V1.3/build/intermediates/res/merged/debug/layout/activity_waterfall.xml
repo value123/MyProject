@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.iss.view.pulltorefresh.PullToRefreshWaterView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto/com.iss.appdemo"
+    android:id="@+id/waterview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="5dip"
+    android:paddingRight="5dip"
+    ptr:ptrAnimationStyle="flip"
+    ptr:ptrDrawable="@drawable/pulltorefresh_down_arrow"
+    ptr:ptrHeaderTextColor="@color/color_ju_yellow"
+    ptr:ptrMode="both"
+    ptr:ptrScrollingWhileRefreshingEnabled="false" />

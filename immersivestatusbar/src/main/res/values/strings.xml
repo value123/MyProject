@@ -6,4 +6,7 @@
     <string name="card_string">You can add an {@link android.support.v7.app.ActionBar} to your activity when running on API level 7 or higher
  * by extending this class for your activity and setting the activity theme to
  * {@link android.support.v7.appcompat.R.style#Theme_AppCompat Theme.AppCompat} or a similar theme.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/radioGroup_mode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <RadioButton
+            android:id="@+id/radioButton_single"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Single"
+            android:textSize="12sp" 
+            android:checked="true"
+            android:singleLine="true"/>
+
+        <RadioButton
+            android:id="@+id/radioButton_multi"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Multi"
+            android:textSize="12sp"
+            android:singleLine="true" />
+
+        <RadioButton
+            android:id="@+id/radioButton_range"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Range"
+            android:textSize="12sp"
+            android:singleLine="true" />
+
+        <RadioButton
+            android:id="@+id/radioButton_dialog"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:text="Dialog"
+            android:textSize="12sp" 
+            android:singleLine="true"/>
+    </RadioGroup>
+
+    <com.iss.view.calendar.CalendarPickerView
+        android:id="@+id/calendar_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="#FFFFFF"
+        android:clipToPadding="false"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:scrollbarStyle="outsideOverlay" />
+
+    <Button
+        android:id="@+id/button_done"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Done" />
+
+</LinearLayout>

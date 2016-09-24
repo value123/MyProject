@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="big_images">
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514982394_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/201251498415_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514985374_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_2.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_3.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_4.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_5.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_2.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_3.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_4.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_5.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/20125149101378_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/20125149101378_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_2.jpg</item>
+    </string-array>
+    <string-array name="small_images">
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514982394_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/201251498415_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514985374_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_2.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_3.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_4.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514992174_5.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_2.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_3.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_4.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/2012514995537_5.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/20125149101378_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120514/20125149101378_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_0.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_1.jpg</item>
+        <item>http://s.wiseks.net:88/shops/sjpic/20120523/2012523108236_2.jpg</item>
+    </string-array>
+
+</resources>

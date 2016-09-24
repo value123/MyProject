@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <include layout="@layout/dx_time_item"
+            android:id="@+id/start_time_layout"/>
+
+        <include layout="@layout/dx_time_item"
+            android:id="@+id/end_time_layout"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_sure"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:gravity="center"
+        android:text="@string/picker_sure" />
+
+</LinearLayout>
+
+

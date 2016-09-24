@@ -1,19 +1,35 @@
 <resources>
 
-    <!-- Base application theme. -->
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <!--<style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--&lt;!&ndash;    <item name="android:windowActionBar">false</item> &lt;!&ndash; 屏蔽ActionBar &ndash;&gt;-->
+        <!--<item name="android:windowNoTitle">true</item>// &lt;!&ndash; 使用 API Level 22 編譯的話，要拿掉前綴字 <item name="windowNoTitle">true</item> &ndash;&gt;&ndash;&gt;-->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@android:color/transparent</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="AppTheme" parent="BaseAppTheme">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+
+    <!--</style>-->
+
+    <!--<style name="ClubToolbar" parent="Widget.AppCompat.Toolbar">-->
+        <!--<item name="contentInsetStart">0dp</item>&lt;!&ndash; 设置该属性解决空白部分&ndash;&gt;-->
+    <!--</style>-->
+
     <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-    <!--    <item name="android:windowActionBar">false</item> &lt;!&ndash; 屏蔽ActionBar &ndash;&gt;
-        <item name="android:windowNoTitle">true</item>// &lt;!&ndash; 使用 API Level 22 編譯的話，要拿掉前綴字 <item name="windowNoTitle">true</item> &ndash;&gt;-->
-        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimary">@android:color/transparent</item>
         <item name="colorPrimaryDark">@android:color/transparent</item>
-        <item name="windowNoTitle">true</item>
-        <item name="android:windowNoTitle">true</item>
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="toolbarStyle">@style/ClubToolbar</item>-->
     </style>
 
-    <style name="AppTheme" parent="BaseAppTheme">
-        <!-- Customize your theme here. -->
-
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/BaseAppTheme">
     </style>
 
 </resources>

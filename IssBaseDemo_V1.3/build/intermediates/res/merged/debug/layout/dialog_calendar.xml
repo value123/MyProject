@@ -1,0 +1,11 @@
+<com.iss.view.calendar.CalendarPickerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/calendarPickerView"
+    android:layout_width="300dip"
+    android:layout_height="300dip"
+    android:background="#FFFFFF"
+    android:clipToPadding="false"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:scrollbarStyle="outsideOverlay" 
+    android:layout_gravity="center"/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_zoom_toggle"/>
+    <item
+        android:id="@+id/menu_scale_fit_center"
+        android:title="@string/menu_scale_fit_center"/>
+    <item
+        android:id="@+id/menu_scale_fit_start"
+        android:title="@string/menu_scale_fit_start"/>
+    <item
+        android:id="@+id/menu_scale_fit_end"
+        android:title="@string/menu_scale_fit_end"/>
+    <item
+        android:id="@+id/menu_scale_fit_xy"
+        android:title="@string/menu_scale_fit_xy"/>
+    <item
+        android:id="@+id/menu_scale_scale_center"
+        android:title="@string/menu_scale_center"/>
+    <item
+        android:id="@+id/menu_scale_scale_center_crop"
+        android:title="@string/menu_scale_center_crop"/>
+    <item
+        android:id="@+id/menu_scale_scale_center_inside"
+        android:title="@string/menu_scale_center_inside"/>
+
+</menu>

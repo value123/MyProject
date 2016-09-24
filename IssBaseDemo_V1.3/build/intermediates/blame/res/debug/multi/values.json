@@ -1,0 +1,2202 @@
+[
+    {
+        "outputFile": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 1833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 45,
+                    "endColumn": 19,
+                    "endOffset": 3568
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1839,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 3615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3573,
+                    "endColumn": 60,
+                    "endOffset": 3629
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3963,
+                        "endColumn": 60,
+                        "endOffset": 4019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3634,
+                    "endColumn": 47,
+                    "endOffset": 3677
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4024,
+                        "endColumn": 47,
+                        "endOffset": 4067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3682,
+                    "endColumn": 52,
+                    "endOffset": 3730
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4072,
+                        "endColumn": 52,
+                        "endOffset": 4120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3735,
+                    "endColumn": 62,
+                    "endOffset": 3793
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4125,
+                        "endColumn": 62,
+                        "endOffset": 4183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3798,
+                    "endColumn": 60,
+                    "endOffset": 3854
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4188,
+                        "endColumn": 60,
+                        "endOffset": 4244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3859,
+                    "endColumn": 62,
+                    "endOffset": 3917
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 4249,
+                        "endColumn": 62,
+                        "endOffset": 4307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3922,
+                    "endColumn": 56,
+                    "endOffset": 3974
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4312,
+                        "endColumn": 56,
+                        "endOffset": 4364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3979,
+                    "endColumn": 58,
+                    "endOffset": 4033
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 4369,
+                        "endColumn": 58,
+                        "endOffset": 4423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4038,
+                    "endColumn": 58,
+                    "endOffset": 4092
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4428,
+                        "endColumn": 58,
+                        "endOffset": 4482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4097,
+                    "endColumn": 62,
+                    "endOffset": 4155
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4487,
+                        "endColumn": 62,
+                        "endOffset": 4545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4160,
+                    "endColumn": 45,
+                    "endOffset": 4201
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 142,
+                        "endColumn": 42,
+                        "endOffset": 183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4206,
+                    "endColumn": 44,
+                    "endOffset": 4246
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 226,
+                        "endColumn": 41,
+                        "endOffset": 266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4251,
+                    "endColumn": 54,
+                    "endOffset": 4301
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 638,
+                        "endColumn": 51,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4306,
+                    "endColumn": 54,
+                    "endOffset": 4356
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 586,
+                        "endColumn": 51,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4361,
+                    "endColumn": 48,
+                    "endOffset": 4405
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 405,
+                        "endColumn": 45,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4410,
+                    "endColumn": 48,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 359,
+                        "endColumn": 45,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endColumn": 51,
+                    "endOffset": 4506
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 310,
+                        "endColumn": 48,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4511,
+                    "endColumn": 44,
+                    "endOffset": 4551
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 268,
+                        "endColumn": 41,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4556,
+                    "endColumn": 51,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 832,
+                        "endColumn": 48,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 48,
+                    "endOffset": 4652
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 690,
+                        "endColumn": 45,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4657,
+                    "endColumn": 50,
+                    "endOffset": 4703
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 784,
+                        "endColumn": 47,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4708,
+                    "endColumn": 50,
+                    "endOffset": 4754
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 736,
+                        "endColumn": 47,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4759,
+                    "endColumn": 45,
+                    "endOffset": 4800
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 881,
+                        "endColumn": 42,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4805,
+                    "endColumn": 49,
+                    "endOffset": 4850
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4855,
+                    "endColumn": 43,
+                    "endOffset": 4894
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 185,
+                        "endColumn": 40,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4899,
+                    "endColumn": 48,
+                    "endOffset": 4943
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4601,
+                        "endColumn": 48,
+                        "endOffset": 4645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4948,
+                    "endColumn": 48,
+                    "endOffset": 4992
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 496,
+                        "endColumn": 45,
+                        "endOffset": 540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4997,
+                    "endColumn": 47,
+                    "endOffset": 5040
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 451,
+                        "endColumn": 44,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5045,
+                    "endColumn": 45,
+                    "endOffset": 5086
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 99,
+                        "endColumn": 42,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5091,
+                    "endColumn": 46,
+                    "endOffset": 5133
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 542,
+                        "endColumn": 43,
+                        "endOffset": 584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7939,
+                    "endColumn": 64,
+                    "endOffset": 7999
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 7451,
+                        "endColumn": 64,
+                        "endOffset": 7511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8004,
+                    "endColumn": 63,
+                    "endOffset": 8063
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 7516,
+                        "endColumn": 63,
+                        "endOffset": 7575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8068,
+                    "endColumn": 55,
+                    "endOffset": 8119
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 7580,
+                        "endColumn": 55,
+                        "endOffset": 7631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8124,
+                    "endColumn": 51,
+                    "endOffset": 8171
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 7636,
+                        "endColumn": 51,
+                        "endOffset": 7683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8176,
+                    "endColumn": 50,
+                    "endOffset": 8222
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 7688,
+                        "endColumn": 50,
+                        "endOffset": 7734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8227,
+                    "endColumn": 63,
+                    "endOffset": 8286
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 7739,
+                        "endColumn": 63,
+                        "endOffset": 7798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8291,
+                    "endColumn": 63,
+                    "endOffset": 8350
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 7803,
+                        "endColumn": 63,
+                        "endOffset": 7862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8355,
+                    "endColumn": 54,
+                    "endOffset": 8405
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 7867,
+                        "endColumn": 54,
+                        "endOffset": 7917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8410,
+                    "endColumn": 56,
+                    "endOffset": 8462
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 7922,
+                        "endColumn": 56,
+                        "endOffset": 7974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8467,
+                    "endColumn": 54,
+                    "endOffset": 8517
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 7979,
+                        "endColumn": 54,
+                        "endOffset": 8029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8522,
+                    "endColumn": 44,
+                    "endOffset": 8562
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 44,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 8567,
+                    "endColumn": 44,
+                    "endOffset": 8607
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endColumn": 44,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 8612,
+                    "endColumn": 43,
+                    "endOffset": 8651
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 8656,
+                    "endColumn": 55,
+                    "endOffset": 8707
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 8168,
+                        "endColumn": 55,
+                        "endOffset": 8219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 8712,
+                    "endColumn": 37,
+                    "endOffset": 8745
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 8224,
+                        "endColumn": 37,
+                        "endOffset": 8257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 8750,
+                    "endColumn": 39,
+                    "endOffset": 8785
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 8262,
+                        "endColumn": 39,
+                        "endOffset": 8297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8790,
+                    "endColumn": 36,
+                    "endOffset": 8822
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 8302,
+                        "endColumn": 36,
+                        "endOffset": 8334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8827,
+                    "endColumn": 47,
+                    "endOffset": 8870
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 47,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8875,
+                    "endColumn": 52,
+                    "endOffset": 8923
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 52,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8928,
+                    "endColumn": 47,
+                    "endOffset": 8971
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 8387,
+                        "endColumn": 47,
+                        "endOffset": 8430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8976,
+                    "endColumn": 45,
+                    "endOffset": 9017
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 8316,
+                        "endColumn": 45,
+                        "endOffset": 8357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9022,
+                    "endColumn": 6883,
+                    "endOffset": 15901
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 6883,
+                        "endOffset": 7280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 15906,
+                    "endColumn": 44,
+                    "endOffset": 15946
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 8435,
+                        "endColumn": 44,
+                        "endOffset": 8475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 15951,
+                    "endColumn": 45,
+                    "endOffset": 15992
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 8480,
+                        "endColumn": 45,
+                        "endOffset": 8521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 15997,
+                    "endColumn": 44,
+                    "endOffset": 16037
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 8526,
+                        "endColumn": 44,
+                        "endOffset": 8566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 16042,
+                    "endColumn": 54,
+                    "endOffset": 16092
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 54,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 16097,
+                    "endColumn": 72,
+                    "endOffset": 16165
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 8571,
+                        "endColumn": 72,
+                        "endOffset": 8639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 16170,
+                    "endColumn": 49,
+                    "endOffset": 16215
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings_error.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 49,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 16220,
+                    "endColumn": 50,
+                    "endOffset": 16266
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings_error.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 50,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 16271,
+                    "endColumn": 56,
+                    "endOffset": 16323
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings_error.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 56,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 16328,
+                    "endColumn": 2892,
+                    "endOffset": 19216
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 8369,
+                        "endColumn": 2892,
+                        "endOffset": 11257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 19221,
+                    "endColumn": 52,
+                    "endOffset": 19269
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 68,
+                        "endColumn": 52,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 19274,
+                    "endColumn": 76,
+                    "endOffset": 19346
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 8697,
+                        "endColumn": 76,
+                        "endOffset": 8769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 19351,
+                    "endColumn": 71,
+                    "endOffset": 19418
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 8066,
+                        "endColumn": 71,
+                        "endOffset": 8133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 19423,
+                    "endColumn": 75,
+                    "endOffset": 19494
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 7989,
+                        "endColumn": 75,
+                        "endOffset": 8060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 19499,
+                    "endColumn": 67,
+                    "endOffset": 19562
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 8210,
+                        "endColumn": 67,
+                        "endOffset": 8273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 19567,
+                    "endColumn": 69,
+                    "endOffset": 19632
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 8139,
+                        "endColumn": 69,
+                        "endOffset": 8204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 19637,
+                    "endColumn": 62,
+                    "endOffset": 19695
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 7767,
+                        "endColumn": 62,
+                        "endOffset": 7825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 19700,
+                    "endColumn": 72,
+                    "endOffset": 19768
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 7909,
+                        "endColumn": 72,
+                        "endOffset": 7977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 19773,
+                    "endColumn": 76,
+                    "endOffset": 19845
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 7831,
+                        "endColumn": 76,
+                        "endOffset": 7903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 19850,
+                    "endColumn": 70,
+                    "endOffset": 19916
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 7495,
+                        "endColumn": 70,
+                        "endOffset": 7561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 19921,
+                    "endColumn": 64,
+                    "endOffset": 19981
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 7637,
+                        "endColumn": 64,
+                        "endOffset": 7697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 19986,
+                    "endColumn": 68,
+                    "endOffset": 20050
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 7567,
+                        "endColumn": 68,
+                        "endOffset": 7631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 20055,
+                    "endColumn": 62,
+                    "endOffset": 20113
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 7703,
+                        "endColumn": 62,
+                        "endOffset": 7761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 20118,
+                    "endColumn": 50,
+                    "endOffset": 20164
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 122,
+                        "endColumn": 50,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 20169,
+                    "endColumn": 58,
+                    "endOffset": 20223
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 7435,
+                        "endColumn": 58,
+                        "endOffset": 7489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 20228,
+                    "endColumn": 56,
+                    "endOffset": 20280
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 7377,
+                        "endColumn": 56,
+                        "endOffset": 7429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 20285,
+                    "endColumn": 55,
+                    "endOffset": 20336
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 8825,
+                        "endColumn": 55,
+                        "endOffset": 8876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 20341,
+                    "endColumn": 101,
+                    "endOffset": 20438
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 8881,
+                        "endColumn": 101,
+                        "endOffset": 8978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 20443,
+                    "endColumn": 113,
+                    "endOffset": 20552
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 8983,
+                        "endColumn": 113,
+                        "endOffset": 9092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 20557,
+                    "endColumn": 107,
+                    "endOffset": 20660
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 9097,
+                        "endColumn": 107,
+                        "endOffset": 9200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 20665,
+                    "endColumn": 60,
+                    "endOffset": 20721
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 9205,
+                        "endColumn": 60,
+                        "endOffset": 9261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 20726,
+                    "endColumn": 66,
+                    "endOffset": 20788
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 9266,
+                        "endColumn": 66,
+                        "endOffset": 9328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 20793,
+                    "endColumn": 64,
+                    "endOffset": 20853
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 9333,
+                        "endColumn": 64,
+                        "endOffset": 9393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 20858,
+                    "endColumn": 46,
+                    "endOffset": 20900
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 7286,
+                        "endColumn": 46,
+                        "endOffset": 7328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 20905,
+                    "endColumn": 41,
+                    "endOffset": 20942
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 7334,
+                        "endColumn": 41,
+                        "endOffset": 7371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 20947,
+                    "endColumn": 63,
+                    "endOffset": 21006
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 63,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 21011,
+                    "endColumn": 50,
+                    "endOffset": 21057
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 50,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 21062,
+                    "endColumn": 57,
+                    "endOffset": 21115
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 58,
+                        "endOffset": 73
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 21120,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 21316
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 9517,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 9713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 21321,
+                    "endLine": 151,
+                    "endColumn": 12,
+                    "endOffset": 21703
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 9718,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 10100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 21708,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 21904
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 10105,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 10301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 21909,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 22148
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 10306,
+                        "endLine": 120,
+                        "endColumn": 12,
+                        "endOffset": 10545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 22153,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 22497
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/values/styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 22502,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 22765
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 10550,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 10813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 22770,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 23043
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10818,
+                        "endLine": 128,
+                        "endColumn": 12,
+                        "endOffset": 11091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 23048,
+                    "endLine": 180,
+                    "endColumn": 12,
+                    "endOffset": 23368
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 11096,
+                        "endLine": 133,
+                        "endColumn": 12,
+                        "endOffset": 11416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 23373,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 23634
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 11421,
+                        "endLine": 137,
+                        "endColumn": 12,
+                        "endOffset": 11682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 23639,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 23912
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 11687,
+                        "endLine": 141,
+                        "endColumn": 12,
+                        "endOffset": 11960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 23917,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 24221
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 11965,
+                        "endLine": 146,
+                        "endColumn": 12,
+                        "endOffset": 12269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 24226,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 24485
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 12274,
+                        "endLine": 150,
+                        "endColumn": 12,
+                        "endOffset": 12533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 24490,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 24796
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 12538,
+                        "endLine": 155,
+                        "endColumn": 12,
+                        "endOffset": 12844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 24801,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 25048
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 12849,
+                        "endLine": 159,
+                        "endColumn": 12,
+                        "endOffset": 13096
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 25053,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 25312
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 13101,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 13360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 25317,
+                    "endLine": 215,
+                    "endColumn": 12,
+                    "endOffset": 25661
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 13365,
+                        "endLine": 168,
+                        "endColumn": 12,
+                        "endOffset": 13709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 25666,
+                    "endLine": 220,
+                    "endColumn": 12,
+                    "endOffset": 26020
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 13714,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 14068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 26025,
+                    "endLine": 225,
+                    "endColumn": 12,
+                    "endOffset": 26371
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 14073,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 14419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 26376,
+                    "endLine": 230,
+                    "endColumn": 12,
+                    "endOffset": 26718
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14424,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 14766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 26723,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 27077
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 14771,
+                        "endLine": 188,
+                        "endColumn": 12,
+                        "endOffset": 15125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 27082,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 27624
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 15130,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 15672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 27629,
+                    "endLine": 253,
+                    "endColumn": 12,
+                    "endOffset": 28168
+                },
+                "from": {
+                    "file": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15677,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 16216
+                    }
+                }
+            }
+        ]
+    }
+]

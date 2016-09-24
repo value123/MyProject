@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/progressbar_round.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/progressbar_round.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/calendar_bg_selector.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/calendar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/drawable/wheel_bg.xml"
+    }
+]

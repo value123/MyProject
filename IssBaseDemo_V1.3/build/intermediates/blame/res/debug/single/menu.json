@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/menu/menu_imageloader.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/menu/menu_imageloader.xml"
+    }
+]

@@ -3,17 +3,12 @@ package com.example.immersivestatusbar;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.LinearLayout;
-
-import com.lib.utils.DisplayUtil;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
@@ -37,7 +32,7 @@ public class CollapsingToolBarActivity extends AppCompatActivity {
         }
         ButterKnife.inject(this);
 
-        initToolBar();
+//        initToolBar();
     }
 
     private void initToolBar() {

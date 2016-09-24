@@ -1,0 +1,456 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:1:1-221:12
+	package
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:2:5-30
+	android:versionName
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:10:5-219:19
+MERGED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:11:5-47:19
+MERGED from [com.android.support:support-v4:23.2.0] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:22:5-20
+	android:screenOrientation
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:15:9-45
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:14:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:12:9-44
+	android:icon
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:11:9-50
+activity#com.iss.appdemo.DemoListActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:17:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:22:27-74
+activity#com.iss.appdemo.activity.DemoDescImagesActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:25:9-27:62
+	android:theme
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:27:13-59
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:26:13-75
+activity#com.iss.example.app.EgApp
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:28:9-30:43
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:30:13-40
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:29:13-53
+activity#com.iss.example.bean.EgBean
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:31:9-33:44
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:33:13-41
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:32:13-55
+activity#com.iss.example.db.EgDB
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:34:9-36:42
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:36:13-39
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:35:13-51
+activity#com.iss.example.db.DBExampleActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:37:9-40:42
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:40:13-39
+	android:configChanges
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:38:13-64
+activity#com.iss.example.httpclient.EgHttpClient
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:41:9-43:50
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:43:13-47
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:42:13-67
+activity#com.iss.example.imageloader.EgImageLoader
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:44:9-46:51
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:46:13-48
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:45:13-69
+activity#com.iss.example.imageloader.ImageGridActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:47:9-49:51
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:49:13-48
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:48:13-73
+activity#com.iss.example.imageloader.ImagePagerActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:50:9-52:51
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:52:13-48
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:51:13-74
+activity#com.iss.example.loghandler.EgLogHandler
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:53:9-55:50
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:55:13-47
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:54:13-67
+activity#com.iss.example.loghandler.LogHandlerActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:56:9-58:50
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:58:13-47
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:57:13-73
+activity#com.iss.example.view.calendar.EgCalendar
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:59:9-61:53
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:61:13-50
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:60:13-68
+activity#com.iss.example.view.calendar.CalendarActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:62:9-64:53
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:64:13-50
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:63:13-74
+activity#com.iss.example.view.common.EgCommon
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:65:9-67:51
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:67:13-48
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:66:13-64
+activity#com.iss.example.view.common.CustomScrollViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:68:9-70:51
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:70:13-48
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:69:13-80
+activity#com.iss.example.view.leftgallery.EgLeftGallery
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:71:9-73:56
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:72:13-74
+activity#com.iss.example.view.leftgallery.LeftGalleryActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:74:9-76:56
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:76:13-53
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:75:13-80
+activity#com.iss.example.view.photoview.EgPhotoView
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:77:9-79:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:79:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:78:13-70
+activity#com.iss.example.view.photoview.SimpleSampleActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:80:9-82:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:82:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:81:13-79
+activity#com.iss.example.view.photoview.ViewPagerActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:83:9-85:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:85:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:84:13-76
+activity#com.iss.example.view.pullrefresh.EgPullRefresh
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:86:9-88:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:88:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:87:13-74
+activity#com.iss.example.view.pullrefresh.PullToRefreshListActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:89:9-91:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:91:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:90:13-86
+activity#com.iss.example.view.pullrefresh.PullToRefreshExpandableListActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:92:9-94:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:94:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:93:13-96
+activity#com.iss.example.view.pullrefresh.PullToRefreshGridActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:95:9-97:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:96:13-86
+activity#com.iss.example.view.pullrefresh.PullToRefreshWebViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:98:9-100:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:100:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:99:13-89
+activity#com.iss.example.view.pullrefresh.PullToRefreshScrollViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:101:9-103:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:103:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:102:13-92
+activity#com.iss.example.view.pullrefresh.PullToRefreshHorizontalScrollViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:104:9-106:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:106:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:105:13-102
+activity#com.iss.example.view.pullrefresh.PullToRefreshWebView2Activity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:107:9-109:58
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:109:13-55
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:108:13-90
+activity#com.iss.example.view.waterfall.EgWaterfall
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:110:9-112:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:112:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:111:13-70
+activity#com.iss.example.view.waterfall.WaterfallActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:113:9-115:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:115:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:114:13-76
+activity#com.iss.example.view.waterfall.WaterfallAsGridViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:116:9-118:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:118:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:117:13-86
+activity#com.iss.example.view.waterfall.WaterfallAsListViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:119:9-121:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:121:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:120:13-86
+activity#com.iss.example.view.waterfall.WaterfallNoRefreshActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:122:9-124:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:124:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:123:13-85
+activity#com.iss.example.view.wheelview.EgWheelView
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:125:9-127:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:127:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:126:13-70
+activity#com.iss.example.view.wheelview.WheelViewActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:128:9-130:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:130:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:129:13-76
+activity#com.iss.example.view.animation.EgAnimation
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:131:9-133:41
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:133:13-38
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:132:13-70
+activity#com.iss.example.view.animation.EgApiDemos
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:134:9-136:50
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:136:13-47
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:135:13-69
+activity#com.iss.example.view.animation.apidemos.AnimationCloning
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:137:9-139:67
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:139:13-64
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:138:13-84
+activity#com.iss.example.view.animation.apidemos.AnimationLoading
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:140:9-142:67
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:142:13-64
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:141:13-84
+activity#com.iss.example.view.animation.apidemos.AnimationSeeking
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:143:9-145:67
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:145:13-64
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:144:13-84
+activity#com.iss.example.view.animation.apidemos.AnimatorEvents
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:146:9-148:65
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:148:13-62
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:147:13-82
+activity#com.iss.example.view.animation.apidemos.BouncingBalls
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:149:9-151:64
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:151:13-61
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:150:13-81
+activity#com.iss.example.view.animation.apidemos.CustomEvaluator
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:152:9-154:66
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:154:13-63
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:153:13-83
+activity#com.iss.example.view.animation.apidemos.MultiPropertyAnimation
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:155:9-157:73
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:157:13-70
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:156:13-90
+activity#com.iss.example.view.animation.apidemos.ReversingAnimation
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:158:9-160:69
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:160:13-66
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:159:13-86
+activity#com.iss.example.view.animation.droidflakes.Droidflakes
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:161:9-163:53
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:163:13-50
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:162:13-82
+activity#com.iss.example.view.animation.pathanimation.PathAnimationActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:164:9-166:55
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:166:13-52
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:165:13-94
+activity#com.iss.example.view.animation.Toggles
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:167:9-169:49
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:169:13-46
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:168:13-66
+activity#com.iss.example.view.animation.VPADemo
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:170:9-172:54
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:172:13-51
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:171:13-66
+activity#com.iss.example.view.orientationviewpager.EgOrientationVP
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:173:9-175:52
+	android:label
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:175:13-49
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:174:13-85
+activity#com.iss.appdemo.activity.LetterSortActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:176:9-80
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:176:19-77
+activity#com.iss.appdemo.activity.SwitchButtonActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:177:9-82
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:177:19-79
+activity#com.iss.appdemo.activity.AfinalDemoActivity
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:178:9-80
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:178:19-77
+activity#com.iss.loghandler.ErrorHandler
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:179:9-204:20
+MERGED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:15:9-26:20
+	android:process
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:181:13-50
+		REJECTED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:17:13-49
+	android:taskAffinity
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:182:13-55
+	tools:replace
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:183:13-44
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:180:13-59
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:184:13-190:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:185:17-76
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:185:27-73
+action#android.intent.action.VIEW
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:187:17-69
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:187:25-66
+data
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:189:17-73
+	android:mimeType
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:189:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:192:13-203:29
+category#android.intent.category.BROWSABLE
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:196:17-78
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:196:27-75
+provider#com.iss.appdemo.db.DemoProvider
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:206:9-209:71
+	android:authorities
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:208:13-50
+	android:permission
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:209:13-68
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:207:13-59
+meta-data#SZICITY_APPKEY
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:211:9-214:15
+MERGED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:41:9-43:44
+	android:value
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:213:13-41
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:212:13-42
+meta-data#SZICITY_CHANNEL
+ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:215:9-218:44
+MERGED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:44:9-46:42
+	android:value
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:217:13-39
+		REJECTED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:46:13-39
+	tools:replace
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:218:13-42
+	android:name
+		ADDED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml:216:13-43
+uses-sdk
+INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.2.0] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+		INJECTED from /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/AndroidManifest.xml
+service#com.iss.service.PushServiceMode
+ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:28:9-31:48
+	android:process
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:31:13-45
+	android:label
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:30:13-39
+	android:name
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:29:13-59
+receiver#com.iss.service.BootReceiver
+ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:33:19-62
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from [MyApplication:IssBase_V1.3:unspecified] /Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/AndroidManifest.xml:37:25-76

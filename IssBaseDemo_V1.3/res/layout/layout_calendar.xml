@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/color_white" >
+
+    <TextView
+        android:id="@+id/text_show_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:text="请选择日期"/>
+
+    <LinearLayout
+        android:id="@+id/linear_calendar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dip"
+        android:background="@drawable/calendar_item_bg" >
+
+        <!-- android:orientation="vertical" -->
+        <!-- android:gravity="center_horizontal" -->
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button_sure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/padding_medium"
+            android:text="提交日期" />
+
+        <Button
+            android:id="@+id/button_clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/padding_medium"
+            android:text="清空选择" />
+    </RelativeLayout>
+
+</LinearLayout>

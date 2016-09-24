@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/droidflakes.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/droidflakes.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_horizontalscrollview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_horizontalscrollview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_image_pager.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_image_pager.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_waterfall_norefresh.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_waterfall_norefresh.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_demo_list.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_demo_list.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/layout_guestimages.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/layout_guestimages.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/pull_to_load_footer.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/pull_to_load_footer.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/vpademo.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/vpademo.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_image_grid.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_image_grid.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/loading.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/loading.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_expandable_list.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_expandable_list.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_grid.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_grid.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animator_events.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animator_events.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animator_custom_evaluator.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animator_custom_evaluator.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animation_loading.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animation_loading.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/layout_station_wheel_text.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/layout_station_wheel_text.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_loghandler.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_loghandler.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_webview2.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_webview2.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/item_appdemo_text.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/item_appdemo_text.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/item_pager_image.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/item_pager_image.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animation_cloning.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animation_cloning.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/layout_itotemviewpager_item.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/layout_itotemviewpager_item.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_wheelview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_wheelview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_webview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_webview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_customscrollview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_customscrollview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/switch_button.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/switch_button.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/calendar_top_linear_title.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/calendar_top_linear_title.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_db.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_db.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_leftgallery.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_leftgallery.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animation_multi_property.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animation_multi_property.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/dialog_user_menu.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/dialog_user_menu.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_waterfall.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_waterfall.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animation_seeking.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animation_seeking.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/pathanimator.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/pathanimator.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/layout_imagetouch.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/layout_imagetouch.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/layout_calendar.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/layout_calendar.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/animation_reversing.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/animation_reversing.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/item_db_user.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/item_db_user.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/bouncing_balls.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/bouncing_balls.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_scrollview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_scrollview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/toggles.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/toggles.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/dialog_shop_wheelview.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/dialog_shop_wheelview.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/item_grid_image.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/item_grid_image.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_app_desc.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_app_desc.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/dialog_calendar.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/dialog_calendar.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_ptr_list.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_ptr_list.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/exploded-aar/MyApplication/IssBase_V1.3/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_itotemviewpager.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_itotemviewpager.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_orientationvp.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_orientationvp.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_calendar.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/build/intermediates/res/merged/debug/layout/activity_photoview_simple.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBaseDemo_V1.3/res/layout/activity_photoview_simple.xml"
+    }
+]

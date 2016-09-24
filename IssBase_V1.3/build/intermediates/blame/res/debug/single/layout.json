@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/calendar_top_linear_title.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/calendar_top_linear_title.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/pull_to_load_footer.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/pull_to_load_footer.xml"
+    },
+    {
+        "merged": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shenwenjie/AndroidStudioProjects/MyApplication/IssBase_V1.3/res/layout/activity_main.xml"
+    }
+]

@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/issbase" />
             <option value="$PROJECT_DIR$/pullrefresh" />
             <option value="$PROJECT_DIR$/retrofit2rx" />
+            <option value="$PROJECT_DIR$/scroller" />
             <option value="$PROJECT_DIR$/timepicker" />
           </set>
         </option>
@@ -33,6 +34,7 @@
             <option value="$PROJECT_DIR$/issbase" />
             <option value="$PROJECT_DIR$/pullrefresh" />
             <option value="$PROJECT_DIR$/retrofit2rx" />
+            <option value="$PROJECT_DIR$/scroller" />
             <option value="$PROJECT_DIR$/timepicker" />
           </set>
         </option>

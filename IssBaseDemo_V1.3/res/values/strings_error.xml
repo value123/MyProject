@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="exception_network">网络错误</string>
+    <string name="exception_timeout">连接超时，网络不给力</string>
+    <string name="exception_json">数据解析错误</string>
+</resources>

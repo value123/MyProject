@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.immersivestatusbar"
-        minSdkVersion 15
+        minSdkVersion 19
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -22,9 +22,11 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
+    compile project(path: ':comlib')
     compile 'com.android.support:appcompat-v7:23.4.0'
     compile 'com.android.support:cardview-v7:23.4.0'
-    compile 'com.android.support:design:23.3.0'
+    compile 'com.android.support:design:23.4.0'
     compile 'com.jakewharton:butterknife:6.0.0'
-    compile project(path: ':comlib')
+    compile 'com.google.code.gson:gson:2.6.1'
+    compile 'com.android.support:support-v4:23.4.0'
 }
